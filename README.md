@@ -20,13 +20,11 @@ En este espacio comparto **recursos educativos, visualizaciones y proyectos con 
 
 Un taller introductorio para explorar imágenes cerebrales y comprender histogramas, curvas de nivel, filtros y bordes. Comienza mostrando imágenes y avanza hacia el código y la interpretación de los resultados.
 
-- **Para practicar:** cuaderno de 60 minutos con 8 celdas, explicaciones y ejercicios resueltos; recorrido completo de 24 lecciones para profundizar.
-- **Para enseñar y estudiar:** 16 diapositivas con notas del instructor y un manual ilustrado de 95 páginas con fuente LaTeX.
-- **Para explorar:** herramienta interactiva que permite comparar cortes, contraste, histograma y umbral, incluso sin conexión.
+Un cuaderno de imágenes médicas reúne los conceptos clave, con explicaciones del código y controles junto a los gráficos. El módulo de machine learning explica cómo entrenar y evaluar un clasificador de radiografías. Ambos cuentan con presentaciones interactivas en HTML y manuales ilustrados con fuente LaTeX.
 
-Utiliza una plantilla pública MNI152 y conserva la procedencia de los datos, los parámetros y las salidas. La ruta breve se comprobó localmente y en Google Colab con CPU.
+Utiliza datos públicos MNI152 y PneumoniaMNIST y un encabezado DICOM sintético. Se conserva la procedencia de los datos y se distinguen los ejemplos educativos de una aplicación clínica.
 
-**[Explorar el taller](https://fisikmedik.github.io/taller-imagenes-medicas-python/)** · [Abrir en Colab](https://colab.research.google.com/github/FisikMedik/taller-imagenes-medicas-python/blob/main/Taller_en_vivo_60min.ipynb) · [Ver el repositorio](https://github.com/FisikMedik/taller-imagenes-medicas-python)
+**[Explorar el taller](https://fisikmedik.github.io/taller-imagenes-medicas-python/)** · [Abrir en Colab](https://colab.research.google.com/github/FisikMedik/taller-imagenes-medicas-python/blob/main/Taller_imagenes_medicas.ipynb) · [Ver el repositorio](https://github.com/FisikMedik/taller-imagenes-medicas-python)
 
 ---
 
